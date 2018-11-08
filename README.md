@@ -1,2 +1,5 @@
 # chewy-game
-This is my game again
+This is a readme
+
+## portfolio
+This is a portfolio
